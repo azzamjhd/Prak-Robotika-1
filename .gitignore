@@ -1,0 +1,14 @@
+*.png
+*.rar
+*.pdf
+*.zip
+*.docx
+*.xlsx
+.tmp.driveupload/
+.tmp.drivedownload/
+slprj/
+*.tmp
+*.temp
+*test.m
+desktop.ini
+*.ini
